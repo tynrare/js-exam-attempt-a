@@ -1,0 +1,6 @@
+[
+	{ "name": "John", "phone": "+7" },
+	{ "name": "Kenny", "phone": "8-000-001203120301230210" },
+	{ "name": "Not John", "phone": "+9-1231" },
+	{ "name": "John Jun", "phone": "+0-213-123" }
+]
