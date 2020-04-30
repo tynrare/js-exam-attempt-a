@@ -59,6 +59,6 @@
     "backbone": "^1.4.0",
     "backbone.localstorage": "^2.0.2",
     "handlebars": "^4.7.3",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
